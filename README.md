@@ -13,4 +13,4 @@
 
 
 #### Result
-![img](https://github.com/MohammadSayed02/FullCalculatorPyqt6-/blob/main/Results/Result.png?raw=true)
+![img](https://github.com/MohammadSayed02/FullCalculatorPyqt6-/blob/main/Results/Result.gif?raw=true)
